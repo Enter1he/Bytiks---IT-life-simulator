@@ -1,0 +1,345 @@
+236     0       table: 0000019a3fcae3b0 table: 0000019a343e3fe0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fcae3b0
+bias    0.5
+spike   function: 0000019a34378200
+rebias  function: 0000019a34375b00
+out     0
+func    function: 0000019a34376310
+inps    table: 0000019a3fcae4b0
+function: 0000019a3435a5a0      3
+function: 0000019a3435ab10      hid
+pushvalue       function: 0000019a34375d70
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+y       236
+x       60
+outs    table: 0000019a3fcae770
+function: 0000019a3435a540      14
+active  true
+2       table: 0000019a343e3fe0
+bias    -0.36420353730198
+spike   function: 0000019a34378200
+rebias  function: 0000019a34375b00
+out     0
+func    function: 0000019a34375c20
+inps    table: 0000019a343e4320
+function: 0000019a3435a5a0      6
+function: 0000019a3435ab10      hid
+pushvalue       function: 0000019a34375d70
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+y       0
+x       0
+outs    table: 0000019a343e4f60
+function: 0000019a3435a540      17
+active  true
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.034426048553953
+neur    table: 0000019a3fcae730
+function: 0000019a3435a5a0      4
+224     0       table: 0000019a3fd0d430 table: 0000019a343e4ca0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fd0d430
+bias    0.85195494626303
+checked false
+function: 0000019a3435a5a0      2
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      2
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a3fd0d630
+function: 0000019a3435ab10      inp
+outs    table: 0000019a3fd0cf70
+y       224
+x       10
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375a70
+rebias  function: 0000019a34375b00
+2       table: 0000019a343e4ca0
+bias    0.38142030509577
+spike   function: 0000019a34378200
+rebias  function: 0000019a34375b00
+out     0
+func    function: 0000019a34375c20
+inps    table: 0000019a343e4220
+function: 0000019a3435a5a0      7
+function: 0000019a3435ab10      hid
+pushvalue       function: 0000019a34375d70
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+y       0
+x       0
+outs    table: 0000019a343e4ea0
+function: 0000019a3435a540      18
+active  true
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.55312218462815
+neur    table: 0000019a343e4120
+function: 0000019a3435a5a0      7
+236     0       table: 0000019a3fcae3b0 table: 0000019a343e3fe0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fcae3b0
+bias    0.5
+checked false
+function: 0000019a3435a5a0      3
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      14
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a3fcae4b0
+function: 0000019a3435ab10      hid
+outs    table: 0000019a3fcae770
+y       236
+x       60
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34376310
+rebias  function: 0000019a34375b00
+2       table: 0000019a343e3fe0
+bias    -0.36420353730198
+checked false
+function: 0000019a3435a5a0      6
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      17
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a343e4320
+function: 0000019a3435ab10      hid
+outs    table: 0000019a343e4f60
+y       0
+x       0
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375c20
+rebias  function: 0000019a34375b00
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.034426048553953
+neur    table: 0000019a3fcae730
+function: 0000019a3435a5a0      4
+224     0       table: 0000019a3fd0d430 table: 0000019a343e4ca0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fd0d430
+bias    0.85195494626303
+checked false
+function: 0000019a3435a5a0      2
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      2
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a3fd0d630
+function: 0000019a3435ab10      inp
+outs    table: 0000019a3fd0cf70
+y       224
+x       10
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375a70
+rebias  function: 0000019a34375b00
+2       table: 0000019a343e4ca0
+bias    0.38142030509577
+checked false
+function: 0000019a3435a5a0      7
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      18
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a343e4220
+function: 0000019a3435ab10      hid
+outs    table: 0000019a343e4ea0
+y       0
+x       0
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375c20
+rebias  function: 0000019a34375b00
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.55312218462815
+neur    table: 0000019a343e4120
+function: 0000019a3435a5a0      7
+236     0       table: 0000019a3fcae3b0 table: 0000019a343e3fe0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fcae3b0
+bias    0.5
+checked false
+function: 0000019a3435a5a0      3
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      14
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a3fcae4b0
+function: 0000019a3435ab10      hid
+outs    table: 0000019a3fcae770
+y       236
+x       60
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34376310
+rebias  function: 0000019a34375b00
+2       table: 0000019a343e3fe0
+bias    -0.36420353730198
+checked false
+function: 0000019a3435a5a0      6
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      17
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a343e4320
+function: 0000019a3435ab10      hid
+outs    table: 0000019a343e4f60
+y       0
+x       0
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375c20
+rebias  function: 0000019a34375b00
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.034426048553953
+neur    table: 0000019a3fcae730
+function: 0000019a3435a5a0      4
+224     0       table: 0000019a3fd0d430 table: 0000019a343e4ca0
+nil     table: 0000019a3fd0d3f0
+nil     table: 0000019a3fd0d430
+nil     table: 0000019a3fd0cfb0
+nil     table: 0000019a3fd0d070
+nil     table: 0000019a3fd0d0b0
+nil     table: 0000019a3fd0d6f0
+nil     table: 0000019a343e4ba0
+nil     table: 0000019a343e4c60
+nil     table: 0000019a343e4d20
+nil     table: 0000019a343e4160
+nil     table: 0000019a343e4560
+nil     table: 0000019a343e4f20
+nil     table: 0000019a343e48e0
+nil     table: 0000019a3fcae3b0
+nil     table: 0000019a343e47a0
+nil     table: 0000019a343e49e0
+1       table: 0000019a3fd0d430
+bias    0.85195494626303
+checked false
+function: 0000019a3435a5a0      2
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      2
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a3fd0d630
+function: 0000019a3435ab10      inp
+outs    table: 0000019a3fd0cf70
+y       224
+x       10
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375a70
+rebias  function: 0000019a34375b00
+2       table: 0000019a343e4ca0
+bias    0.38142030509577
+checked false
+function: 0000019a3435a5a0      7
+count   function: 0000019a34375f80
+reweight        function: 0000019a34376280
+active  true
+function: 0000019a3435a540      18
+out     0
+spike   function: 0000019a34378200
+inps    table: 0000019a343e4220
+function: 0000019a3435ab10      hid
+outs    table: 0000019a343e4ea0
+y       0
+x       0
+pushvalue       function: 0000019a34375d70
+func    function: 0000019a34375c20
+rebias  function: 0000019a34375b00
+connect function: 0000019a34376010
+reweight        function: 0000019a34375bf0
+weight  0.55312218462815
+neur    table: 0000019a343e4120
+function: 0000019a3435a5a0      7
