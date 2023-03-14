@@ -673,7 +673,7 @@ local function removeSynapse(N,s)
     xdel(N.syns, choice)
 end
 
-local chances = {[1] = 15, [2] = 15, [3] = 15, [4] = 15, [5] = 15}
+local chances = {[1] = 60, [2] = 15, [3] = 15, [4] = 5, [5] = 5}
 local syn_chances = rdm.makeRand(rdm.genTableNV(chances), rand_100())
 local new_chances = {[1] = 34, [2] = 33, [3] = 33}
 local neur_chances = rdm.makeRand(rdm.genTableNV(new_chances), rand_100())
