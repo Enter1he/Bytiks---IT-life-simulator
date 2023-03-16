@@ -11,3 +11,5 @@ In current version of simulator they basically capable of locating and eating pl
 distinguishing different objects based on ID's.
 
 This is an official github of Bytiks - IT life simulator where author Enter1he publishes source code for latest version of Bytiks.
+
+![](./Screen.png)
