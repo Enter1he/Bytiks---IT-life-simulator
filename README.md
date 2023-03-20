@@ -4,7 +4,7 @@
 Bytiks is small simulator with a grand goal of creating artificial society. The end point is something akin to what can be seen in Tron: Legacy movie, which is original inspiration.
 
 ## How it's done?
-Bytiks uses Artificial Neural Networks as brains for it's main agents, who is convieniently named Bytiks.
+Bytiks uses Artificial Neural Networks as brains for it's main agents and is rendered using LuaEngine written by Enter1he.
 
 ## What they can do?
 In current version of simulator they basically capable of locating and eating plants. However I'm trying to implement basic system for 
